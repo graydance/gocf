@@ -1,4 +1,4 @@
-module gocf
+module github.com/graydance/gocf
 
 go 1.13
 
