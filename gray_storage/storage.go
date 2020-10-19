@@ -1,4 +1,7 @@
-package gocf
+/**
+google cloud storage相关方法
+ */
+package gray_storage
 
 import (
 	"bufio"
